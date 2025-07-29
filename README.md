@@ -19,11 +19,5 @@ This project is a simple and efficient **Image Converter** built using Python's 
 - Developed a complete project from design to deployment  
 - Improved problem-solving, debugging, and user interface design skills  
 
-## 🚀 Future Improvements
-- Add batch conversion  
-- Include basic editing features (crop, resize, rotate)  
-- Support for modern formats like WebP and HEIC  
-- Cloud-based version for online conversions
-
 📌 Developed during my internship at **SS Infotech, Nagpur**, as part of my B.Tech AIML curriculum.
 
